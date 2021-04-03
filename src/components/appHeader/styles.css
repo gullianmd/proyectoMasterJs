@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(212, 0, 0);
+    font-style: oblique;
+    color: white;
+    text-shadow: 1px 1px rgb(44, 44, 44);
+}

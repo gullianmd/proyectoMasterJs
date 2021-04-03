@@ -1,0 +1,59 @@
+.fetchSection{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paperColor {
+    background-color:rgb(240, 240, 240);
+}
+
+.list{
+    min-width: 220px;
+}
+
+.progressBar{
+    width: '100%';
+}
+
+.searchSection{
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+}
+
+.searchColumn{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+.columnPadding{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.image{
+    width: 200px;
+}
+
+.dataSection{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.dataFont{
+    font-weight: bolder;
+}
+
+.saveButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-shrink: 3;
+    padding: 20px;
+}
+

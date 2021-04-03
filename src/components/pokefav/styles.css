@@ -1,0 +1,10 @@
+.favSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.image{
+    width: 200px;
+}
+
