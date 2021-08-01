@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyectoMasterJs/static/css/main.bb92f92d.chunk.css",
+    "main.js": "/proyectoMasterJs/static/js/main.33324cb3.chunk.js",
+    "main.js.map": "/proyectoMasterJs/static/js/main.33324cb3.chunk.js.map",
+    "runtime-main.js": "/proyectoMasterJs/static/js/runtime-main.c9d61681.js",
+    "runtime-main.js.map": "/proyectoMasterJs/static/js/runtime-main.c9d61681.js.map",
+    "static/js/2.98e9786a.chunk.js": "/proyectoMasterJs/static/js/2.98e9786a.chunk.js",
+    "static/js/2.98e9786a.chunk.js.map": "/proyectoMasterJs/static/js/2.98e9786a.chunk.js.map",
+    "static/js/3.ecded4a0.chunk.js": "/proyectoMasterJs/static/js/3.ecded4a0.chunk.js",
+    "static/js/3.ecded4a0.chunk.js.map": "/proyectoMasterJs/static/js/3.ecded4a0.chunk.js.map",
+    "index.html": "/proyectoMasterJs/index.html",
+    "static/css/main.bb92f92d.chunk.css.map": "/proyectoMasterJs/static/css/main.bb92f92d.chunk.css.map",
+    "static/js/2.98e9786a.chunk.js.LICENSE.txt": "/proyectoMasterJs/static/js/2.98e9786a.chunk.js.LICENSE.txt",
+    "static/media/pokeBall.85d4f173.png": "/proyectoMasterJs/static/media/pokeBall.85d4f173.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d61681.js",
+    "static/js/2.98e9786a.chunk.js",
+    "static/css/main.bb92f92d.chunk.css",
+    "static/js/main.33324cb3.chunk.js"
+  ]
+}
